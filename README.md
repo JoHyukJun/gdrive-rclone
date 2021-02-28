@@ -1,5 +1,5 @@
 # gdrive-rclone
-# RCLONOE 구글 드라이브 사용 프로그램
+# RCLONE 구글 드라이브 사용 프로그램
 ## Author: JO HYUK JUN
 #
 # 주의사항
